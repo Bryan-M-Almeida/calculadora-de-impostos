@@ -26,10 +26,9 @@ CSS3: Estilização e layout responsivo.
 JavaScript: Lógica para cálculo de impostos e exibição dinâmica de resultados.
 
 Como Usar
-Clonar o Repositório
 
 Clone este repositório para sua máquina local:
-git
+git https://github.com/Bryan-M-Almeida/calculadora-de-impostos.git
 
 
 Abrir o Projeto
